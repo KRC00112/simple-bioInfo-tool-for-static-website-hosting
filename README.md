@@ -2,7 +2,7 @@
 
 ---
 
-## Access the application here: [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://d2ch06ekyv8s8r.cloudfront.net/index.html)
+## Access the application here: <img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square" alt="Live Demo" style="vertical-align: middle;">
 
 ## 📘 Project Overview
 
