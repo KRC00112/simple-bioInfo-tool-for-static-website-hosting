@@ -52,7 +52,7 @@ Created a React application using Vite and implemented DNA/RNA sequence analysis
 5. Enabled static website hosting from the Properties section.
 6. Set the index and error documents for proper hosting behavior.
 
-### CloudFront Distribution Setup with S3
+### 3. CloudFront Distribution Setup with S3
 
 1. Created a CloudFront distribution.
 2. Set the origin as the S3 bucket.
@@ -60,7 +60,7 @@ Created a React application using Vite and implemented DNA/RNA sequence analysis
 4. Attached the OAC to the distribution origin.
 5. Updated the S3 bucket policy to allow access only from CloudFront.
 
-### 5. Test Deployment
+### 4. Test Deployment
 
 - Opened CloudFront URL and verified it to be functioning correctly.
 - Direct S3 access is blocked
