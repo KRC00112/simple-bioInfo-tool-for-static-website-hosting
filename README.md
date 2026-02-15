@@ -1,4 +1,4 @@
-# Secure Cloud-Hosted Bioinformatics Web App
+# Sequence Analyzer tool for Static Website hosting using AWS S3 and CloudFront 
 
 ---
 
