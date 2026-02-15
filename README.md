@@ -2,7 +2,7 @@
 
 ---
 
-### 🌐 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://d2ch06ekyv8s8r.cloudfront.net/index.html)
+## 🌐 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://d2ch06ekyv8s8r.cloudfront.net/index.html)
 
 ## 📘 Project Overview
 
