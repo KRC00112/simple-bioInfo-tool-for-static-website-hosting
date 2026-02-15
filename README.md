@@ -44,7 +44,7 @@ The deployment architecture ensures:
 The following diagram illustrates the secure delivery pipeline for the static website, utilizing Amazon CloudFront as a CDN and Amazon S3 as the private origin.
 
 <p align="center">
-  <img src="Architecture.png" alt="AWS Architecture Diagram" width="600">
+  <img src="https://docs.aws.amazon.com/images/AmazonCloudFront/latest/DeveloperGuide/images/cloudfront-secure-static-website-overview-github.png" alt="AWS Architecture Diagram" width="600">
 </p>
 
 This project implements a Least-Privilege Security Model by disabling all public access to the S3 bucket and enforcing access through CloudFront's Origin Access Control (OAC).
