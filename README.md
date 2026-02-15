@@ -20,19 +20,19 @@ The deployment architecture ensures:
 
 ## ⚙️ Requirements
 
-#### Frontend
+### Frontend
 - React (Vite) — component-based UI architecture
 - JavaScript — sequence processing and validation logic
 - CSS — layout and styling
 
-#### Cloud & Deployment
+### Cloud & Deployment
 - **Amazon S3** — hosts static website files
 - **S3 Bucket Policies** — enforce secure access permissions
 - **Amazon CloudFront** — global CDN distribution and caching
 - **Origin Access Control (OAC)** — restricts direct access to S3 origin
 
 
-#### Development Tools
+### Development Tools
 - Node.js & npm
 - Git & GitHub
 
